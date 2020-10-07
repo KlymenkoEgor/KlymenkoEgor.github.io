@@ -1,0 +1,9 @@
+body{
+	background-color: lightyellow;
+}
+h1 {
+color:red; 
+text-align:center; 
+text-shadow: 2px 2px 5px blue; 
+background-color: #00ff00;
+}
